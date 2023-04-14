@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Create 30 Days App</string>
+    <string name="title_day1">Arthur Ashe</string>
+    <string name="description_day1">Start where you are. Use what you have. Do what you can</string>
+
+
+    <string name="title_day2">Audre Lorde</string>
+    <string name="description_day2">I am deliberate and afraid of nothing</string>
+
+
+    <string name="title_day3"> Roald Dahl, “My Uncle Oswald</string>
+    <string name="description_day3">I began to realize how important it was to be an enthusiast in life. He taught me that if you are interested in something, no matter what it is, go at it full speed ahead. Embrace it with both arms, hug it, love it, and above all become passionate about it. Lukewarm is no good. Hot is no good either. White hot and passionate is the only thing to be</string>
+
+
+    <string name="title_day4">Herb Kelleher, Co-founder of Southwest Airlines</string>
+    <string name="description_day4">We have a strategic plan. It’s called doing things.</string>
+
+
+    <string name="title_day5">Thoreau</string>
+    <string name="description_day5">Go confidently in the direction of your dreams! Live the life you’ve imagined!</string>
+
+
+    <string name="title_day6">Mary Oliver</string>
+    <string name="description_day6">Now tell me, what is it you plan to do with your one wild and precious life?</string>
+
+
+    <string name="title_day7">Michael Jordan</string>
+    <string name="description_day7">Some people want it to happen, some people wish it would happen, others make it happen</string>
+</resources>
